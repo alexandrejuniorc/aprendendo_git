@@ -1,0 +1,2 @@
+Como já estou a um tempo como freelancer já tenho um pouco das manhas dos códigos, mas é sempre bom relembrá-los e aprender alguns novos que não cheguei a utilizar 
+como mesclar as branches e puxar a que você quer utilizando: git pull (origin v1.0) por exemplo. Um ponto interessante também é o GitHubPages que é muito bom pra ir acompanhando os projetos. O gitignore também acho muito interessante,pois, ele é essêncial para a proteção de dados e senhas.
